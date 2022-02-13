@@ -32,7 +32,7 @@ Contacts:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damasy&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
 </p>
 <p align="center">
-  <a href="https://app.daily.dev/ahmeddamasy"><img src="https://api.daily.dev/devcards/2d30f608774b4d7c95bbb2a13bb39b84.png?r=hb4" width="400" alt="Ahmed Damasy's Dev Card"></a>
+  <a href="https://app.daily.dev/ahmeddamasy"><img src="https://github.com/Damasy/Damasy/blob/main/devcard.svg" width="400" alt="Ahmed Damasy's Dev Card"></a>
 </p>
 
 <!--
