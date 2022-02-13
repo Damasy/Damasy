@@ -1,6 +1,6 @@
 <p align='center'>
-  <a href="https://www.linkedin.com/in/ahmed-hussein-damasy/"><img height="30" src="https://github.com/Damasy/Damasy/blob/main/icons/linkedin.png"></a>
-  <a href="/Ahmed-Damasy Full-stack Engineer 2022.pdf"><img height="30" src="https://github.com/Damasy/Damasy/blob/main/icons/cv.png"></a>
+  <a href="https://www.linkedin.com/in/ahmed-hussein-damasy/" target="_blank"><img height="40" src="https://github.com/Damasy/Damasy/blob/main/icons/linkedin.png"></a>
+  <a href="/Ahmed-Damasy Full-stack Engineer 2022.pdf" target="_blank"><img height="40" src="https://github.com/Damasy/Damasy/blob/main/icons/cv.png"></a>
 </p>
 
 ### Hi there 👋,
