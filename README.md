@@ -13,7 +13,7 @@ assessing operational needs and developing high quality solutions to drive custo
 building highly scalable services. Highly educated in various programming languages and frameworks. Looking for a
 position in a fast-paced company that appreciates high potential, dedication and evolving technical skills.
 
-I currently work mainly with JavaScript, as well as Typescript, Angular, React, and Vue. I started my career as a Front-end developer, but now I'm working of the full stack with Node.js and Express in the backend.
+I currently work mainly with JavaScript, as well as Typescript, Node.js, Express, Angular, React, Vue, SQL Database (MySql - PostqreSql - SQL Server), NoSQL Database (MongoDB).
 
 I have been worked with client projects in the USA, Germany, Poland, Austria, Turkey, UAE, and KSA.
 
@@ -21,7 +21,7 @@ Contacts:
 
 <a href="mailto:ahmeddamasy93@gmail.com">ahmeddamasy93@gmail.com</a>
 
-<a href="callto:+201116424244">+201116424244</a>
+<a href="tel:+201116424244">+201116424244</a>
 
 
 <hr>
