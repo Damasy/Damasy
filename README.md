@@ -8,17 +8,20 @@
 My name is Ahmed Damasy. I am a 28 year old, from Cairo, Egypt.
 
 ### Bio
-I am a JavaScript Software Engineer with more than 5 years of full-time work experience. I currently work mainly with JavaScript, as well as with Typescript, Angular, React, and Vue. I started my career as a Front-end developer.
+I am a JavaScript Software Engineer with more than 5 years of expertise within various industries. Recognized for
+assessing operational needs and developing high quality solutions to drive customer satisfaction. Experienced in
+building highly scalable services. Highly educated in various programming languages and frameworks. Looking for a
+position in a fast-paced company that appreciates high potential, dedication and evolving technical skills.
 
-I have been worked with client projects in the USA, Germany, Turkey, UAE, and KSA.
+I currently work mainly with JavaScript, as well as Typescript, Angular, React, and Vue. I started my career as a Front-end developer, but now I'm working of the full stack with Node.js and Express in the backend.
 
-I’m a teacher and a bit of a geek, who loves finding new problems to solve or better solutions to a known problem. In my free time, I enjoy teaching coding, reading about new technologies, and open-source projects.
+I have been worked with client projects in the USA, Germany, Poland, Austria, Turkey, UAE, and KSA.
 
 Contacts:
 
 <a href="mailto:ahmeddamasy93@gmail.com">ahmeddamasy93@gmail.com</a>
 
-<a href="tel:00201116424244">+201116424244</a>
+<a href="callto:+201116424244">+201116424244</a>
 
 
 <hr>
