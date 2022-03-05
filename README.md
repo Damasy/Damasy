@@ -5,16 +5,16 @@
 
 - 💬 Ask me about **JavaScript, Typescript, React, Vue, Angular, node.js, Express, SQL DB, No SQL DB**
 
-- 📫 How to reach me <a href="mailto:ahmeddamasy93@gmail.com">ahmeddamasy93@gmail.com</a>
+- 📫 How to reach me <a target="_blank" href="mailto:ahmeddamasy93@gmail.com">ahmeddamasy93@gmail.com</a>
 
-- 📞 How to Contact me <a href="tel:+201116424244">+201116424244</a>
+- 📞 How to Contact me <a target="_blank" href="tel:+201116424244">+201116424244</a>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1aj8MzD498fWgZOJZMsjhpQlm18JB29hA/view?usp=sharing" target="_blank"><img height="24" src="https://github.com/Damasy/Damasy/blob/main/icons/cv.png"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmed-hussein-damasy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hussein-damasy/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4664628/ahmed-el-damasy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4664628/ahmed-el-damasy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed-hussein-damasy/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hussein-damasy/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4664628/ahmed-el-damasy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4664628/ahmed-el-damasy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
